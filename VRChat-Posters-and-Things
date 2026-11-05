@@ -1,25 +1,9 @@
 # Title: Midnight_NOW/VRChat BlackList
 
 
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
-# Custom host records are listed here.
-
-0.0.0.0 data.vr-m.net
-0.0.0.0 api.disbridge.com
-0.0.0.0 dl.dropboxusercontent.com
-0.0.0.0 toasterly.github.io
-0.0.0.0 maru-vr.com
-0.0.0.0 makimaki.dev
+data.vr-m.net
+api.disbridge.com
+dl.dropboxusercontent.com
+toasterly.github.io
+maru-vr.com
+makimaki.dev
